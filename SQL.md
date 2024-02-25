@@ -1,6 +1,6 @@
 Free course
                 
-                https://stepik.org/course/63054/promo
+                <a>https://stepik.org/course/63054/promo</a>
                 https://www.theodinproject.com/lessons/databases-databases-and-sql
 
 Exercises
